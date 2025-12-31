@@ -21,7 +21,7 @@ The primary objective of this project is to **simulate a corporate-grade analyti
 
 The project follows a structured, real-world analytics lifecycle:
 
-![Project Workflow](./Power BI-customer.png)
+![Project Workflow](./Power_BI-customer.png)
 
 ### Workflow Stages:
 1. **Business Problem Definition**
